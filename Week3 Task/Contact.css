@@ -1,0 +1,13 @@
+body{
+    background-color: #000036;
+    color: white;
+    font-size: larger;
+}
+
+input{
+    cursor: pointer;
+}
+
+input:hover{
+    background-color: aqua;
+}

@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #000036;
+    font-family: Vernada, Geneva, sans-serif;
+}
+
+span{
+    color: blueviolet;
+}
+
+.text{
+    color: white;
+    padding-left: 20px;
+    padding-top: 17rem;
+    
+}
+
+.fig{
+    padding: 50px;
+}
+
+.contact{
+    padding-left: 18px;
+    cursor: pointer;
+    color: white;
+    
+}
+
+.project{
+    padding-left: 30px;
+    cursor: pointer;
+    color: white;
+}
+
+.td1{
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+}

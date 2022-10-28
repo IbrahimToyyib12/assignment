@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed&family=Outfit:wght@300;400;600&family=Poppins:wght@300;400;500;600;700&family=Raleway:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+    font-family: 'Poppins', sans-serif;
+ }
+
+main {
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    height: 100vh;
+    align-items: center;
+    margin: auto;
+    color: white;
+}
+
+.b-img {
+    margin-bottom: 20px;
+    width: 50px;
+}
+
+.b-tag {
+    margin-bottom: 30px;
+    font-weight: 300;
+    /* font-size: 16px */
+}
+
+button {
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+    color: #016972;
+}
+
+#box-1 {
+    padding: 30px;
+    background-color: #E28525;
+}
+
+
+
+#box-2 {
+    padding: 30px;
+    background-color: #016972;
+    /* border: 2px solid red; */
+    margin: 0;
+}
+
+#box-3 {
+    padding: 30px;
+    background-color: #063F3D;
+}
